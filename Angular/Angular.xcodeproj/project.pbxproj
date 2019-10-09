@@ -1,0 +1,81 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		FDF3A47A234E2BAE005F2BF0 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		FDF3A47B234E309F005F2BF0 /* app.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = app.js; sourceTree = "<group>"; };
+		FDF3A47C234E33EE005F2BF0 /* controller.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = controller.js; sourceTree = "<group>"; };
+		FDF3A47D234E35FC005F2BF0 /* main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = main.html; sourceTree = "<group>"; };
+		FDF3A47E234E3628005F2BF0 /* show.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = show.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		FDF3A473234E29D7005F2BF0 = {
+			isa = PBXGroup;
+			children = (
+				FDF3A47E234E3628005F2BF0 /* show.html */,
+				FDF3A47D234E35FC005F2BF0 /* main.html */,
+				FDF3A47C234E33EE005F2BF0 /* controller.js */,
+				FDF3A47B234E309F005F2BF0 /* app.js */,
+				FDF3A47A234E2BAE005F2BF0 /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		FDF3A474234E29D7005F2BF0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = FDF3A477234E29D7005F2BF0 /* Build configuration list for PBXProject "Angular" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FDF3A473234E29D7005F2BF0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		FDF3A478234E29D7005F2BF0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		FDF3A479234E29D7005F2BF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FDF3A477234E29D7005F2BF0 /* Build configuration list for PBXProject "Angular" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDF3A478234E29D7005F2BF0 /* Debug */,
+				FDF3A479234E29D7005F2BF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FDF3A474234E29D7005F2BF0 /* Project object */;
+}
